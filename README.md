@@ -6,7 +6,7 @@
 
 ### “I design the moment where an idea becomes effortless.”
 
-UI/UX designer, visual storyteller, and software-engineering student based in Addis Ababa.
+UI/UX designer, visual storyteller, and software engineering student based in Addis Ababa.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Isaac--56-181717?style=for-the-badge&logo=github)](https://github.com/Isaac-56)
 ![Open to collaboration](https://img.shields.io/badge/Open_to-Creative_Collaboration-8B5CF6?style=for-the-badge)
@@ -17,10 +17,10 @@ UI/UX designer, visual storyteller, and software-engineering student based in Ad
 
 ## Design meets engineering
 
-I create digital experiences that look intentional, feel natural, and solve real problems. My work brings together **user experience, interface design, visual communication, and code**—because the best products need both imagination and structure.
+I create digital experiences that look intentional, feel natural, and solve real problems. My work brings together **user experience, interface design, visual communication, and code**.
 
 - 🎨 Designing UI/UX, user flows, wireframes, prototypes, and visual systems
-- 🖼️ Creating graphics and Canva-based content for brands and communities
+- 🖼️ Creating graphics and Canva content for brands and communities
 - 📣 Experienced in social media design and management for an organization
 - 🎓 Studying Software Engineering in Addis Ababa alongside language and professional courses
 - 💻 Building with HTML, CSS, Java, C++, Flutter, Firebase, Git, and GitHub
@@ -61,14 +61,14 @@ I create digital experiences that look intentional, feel natural, and solve real
 
 ### 🚕 [AlphaRide](https://github.com/Isaac-56/alpharide)
 
-A passenger ride-booking experience focused on clear choices, live ride coordination, route-aware fares, and a smoother journey from pickup to completion.
+A passenger ride booking experience focused on clear choices, live ride coordination, fares based on routes, and a smoother journey from pickup to completion.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧭 [Alpha Plus](https://github.com/Isaac-56/alpha-plus)
 
-The connected driver experience for onboarding, availability, live offers, trip progress, earnings, and reliable passenger-driver coordination.
+The connected driver experience for onboarding, availability, live offers, trip progress, earnings, and reliable coordination between passengers and drivers.
 
 </td>
 </tr>
@@ -80,16 +80,17 @@ The connected driver experience for onboarding, availability, live offers, trip 
 |:--|:--|:--|
 | Understand people, context, and the real problem. | Turn complexity into clear flows and expressive interfaces. | Prototype, test, refine, and collaborate through implementation. |
 
-> **Good design does not ask for attention—it earns trust by making the next step feel obvious.**
+> **Good design does not ask for attention. It earns trust by making the next step feel obvious.**
 
 ## GitHub snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Isaac-56&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=64748B" alt="Isaac's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-56&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=64748B" alt="Isaac's most used languages" />
+[![Followers](https://img.shields.io/github/followers/Isaac-56?style=for-the-badge&logo=github&label=Followers&color=8B5CF6)](https://github.com/Isaac-56?tab=followers)
+[![AlphaRide stars](https://img.shields.io/github/stars/Isaac-56/alpharide?style=for-the-badge&logo=github&label=AlphaRide%20stars&color=06B6D4)](https://github.com/Isaac-56/alpharide/stargazers)
+[![AlphaRide updates](https://img.shields.io/github/last-commit/Isaac-56/alpharide?style=for-the-badge&label=AlphaRide%20update&color=EC4899)](https://github.com/Isaac-56/alpharide/commits/main)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac-56&bg_color=transparent&color=8B5CF6&line=06B6D4&point=EC4899&area=true&hide_border=true" alt="Isaac's contribution activity graph" />
+[**Explore my repositories and contribution history →**](https://github.com/Isaac-56?tab=repositories)
 
 </div>
 
