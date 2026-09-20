@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m Isaac 👋
+# Hi, I’m Yeshak 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=850&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=55&lines=UI%2FUX+Designer+%E2%80%A2+Creative+Technologist;Designing+clarity+into+every+interaction;Turning+ideas+into+interfaces+people+remember" alt="Animated introduction" />
 
@@ -8,8 +8,9 @@
 
 UI/UX designer, visual storyteller, and software engineering student based in Addis Ababa.
 
+[![Portfolio](https://img.shields.io/badge/View_My-Portfolio-EC4899?style=for-the-badge&logo=netlify&logoColor=white)](https://yeshak-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Isaac--56-181717?style=for-the-badge&logo=github)](https://github.com/Isaac-56)
-![Open to collaboration](https://img.shields.io/badge/Open_to-Creative_Collaboration-8B5CF6?style=for-the-badge)
+![Available for opportunities](https://img.shields.io/badge/Available_for-Opportunities-8B5CF6?style=for-the-badge)
 
 </div>
 
@@ -69,6 +70,8 @@ I understand how design choices connect to code, technical limits, testing, and 
 ### Design & communication
 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-7C3AED?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UX Research](https://img.shields.io/badge/UX_Research-14B8A6?style=for-the-badge)
 ![Wireframing](https://img.shields.io/badge/Wireframing-8B5CF6?style=for-the-badge)
 ![Prototyping](https://img.shields.io/badge/Prototyping-A78BFA?style=for-the-badge)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-C4B5FD?style=for-the-badge&logoColor=black)
@@ -80,6 +83,9 @@ I understand how design choices connect to code, technical limits, testing, and 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -142,6 +148,8 @@ I think beyond individual screens. I consider the full journey, the message, the
 <div align="center">
 
 ### Let’s turn thoughtful ideas into useful experiences.
+
+[**Explore my design portfolio →**](https://yeshak-portfolio.netlify.app/)
 
 **UI/UX • Visual Design • Social Media • Software Engineering**
 
