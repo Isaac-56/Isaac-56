@@ -26,6 +26,42 @@ I create digital experiences that look intentional, feel natural, and solve real
 - 💻 Building with HTML, CSS, Java, C++, Flutter, Firebase, Git, and GitHub
 - 🚕 Currently shaping the passenger and driver experiences for **AlphaRide**
 
+## What I bring to a project
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Product thinking
+
+I turn user needs into focused flows, useful features, and practical product decisions.
+
+</td>
+<td width="33%" valign="top">
+
+### ✨ Visual craft
+
+I create interfaces, graphics, and content systems with a clear hierarchy and a memorable identity.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Build awareness
+
+I understand how design choices connect to code, technical limits, testing, and real implementation.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### My creative process
+
+`Listen` → `Frame` → `Sketch` → `Prototype` → `Test` → `Refine`
+
+</div>
+
 ## Creative toolkit
 
 <div align="center">
@@ -74,6 +110,14 @@ The connected driver experience for onboarding, availability, live offers, trip 
 </tr>
 </table>
 
+> 🚀 **Current mission:** Designing AlphaRide as a connected mobility ecosystem where passenger and driver experiences feel clear, responsive, and trustworthy.
+
+<details>
+<summary><b>What makes my approach different?</b></summary>
+<br>
+I think beyond individual screens. I consider the full journey, the message, the interaction, and what must happen behind the interface for the experience to work.
+</details>
+
 ## How I think
 
 | Discover | Design | Deliver |
@@ -86,7 +130,6 @@ The connected driver experience for onboarding, availability, live offers, trip 
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/Isaac-56?style=for-the-badge&logo=github&label=Followers&color=8B5CF6)](https://github.com/Isaac-56?tab=followers)
 [![AlphaRide stars](https://img.shields.io/github/stars/Isaac-56/alpharide?style=for-the-badge&logo=github&label=AlphaRide%20stars&color=06B6D4)](https://github.com/Isaac-56/alpharide/stargazers)
 [![AlphaRide updates](https://img.shields.io/github/last-commit/Isaac-56/alpharide?style=for-the-badge&label=AlphaRide%20update&color=EC4899)](https://github.com/Isaac-56/alpharide/commits/main)
 
