@@ -108,14 +108,14 @@ I understand how design choices connect to code, technical limits, testing, and 
 <tr>
 <td width="50%" valign="top">
 
-### 🚕 [AlphaRide](https://github.com/Isaac-56/alpharide)
+### 🚕 AlphaRide
 
 A passenger ride booking experience focused on clear choices, live ride coordination, fares based on routes, and a smoother journey from pickup to completion.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 [Alpha Plus](https://github.com/Isaac-56/alpha-plus)
+### 🧭 Alpha Plus
 
 The connected driver experience for onboarding, availability, live offers, trip progress, earnings, and reliable coordination between passengers and drivers.
 
