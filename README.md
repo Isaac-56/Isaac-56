@@ -143,11 +143,9 @@ I think beyond individual screens. I consider the full journey, the message, the
 
 <div align="center">
 
-[![Internship experience](https://img.shields.io/badge/Internship_Experience-2%2B_Years-8B5CF6?style=for-the-badge)](https://yeshak-portfolio.netlify.app/experience)
-[![Major projects](https://img.shields.io/badge/Major_Projects-5%2B-EC4899?style=for-the-badge)](https://yeshak-portfolio.netlify.app/projects)
-[![Technologies](https://img.shields.io/badge/Technologies-10%2B-06B6D4?style=for-the-badge)](https://yeshak-portfolio.netlify.app/skills)
-
-[**Explore my repositories and contribution history →**](https://github.com/Isaac-56?tab=repositories)
+![Internship experience](https://img.shields.io/badge/Internship_Experience-2%2B_Years-8B5CF6?style=for-the-badge)
+![Major projects](https://img.shields.io/badge/Major_Projects-5%2B-EC4899?style=for-the-badge)
+![Technologies](https://img.shields.io/badge/Technologies-10%2B-06B6D4?style=for-the-badge)
 
 </div>
 
