@@ -19,31 +19,13 @@ UI/UX designer, visual storyteller, and software engineering student based in Ad
 
 <table>
 <tr>
-<td width="34%" align="center" valign="top">
+<td width="100%" align="center" valign="top">
 
 ### 🎨 Full Portfolio
 
-Discover my design profile, skills, experience, and creative approach.
+Discover my design profile, selected work, skills, experience, and creative approach.
 
 [![Open portfolio](https://img.shields.io/badge/Open-Portfolio-EC4899?style=for-the-badge&logo=netlify&logoColor=white)](https://yeshak-portfolio.netlify.app/)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🧩 Selected Projects
-
-Explore the products, interfaces, and visual experiences I have designed.
-
-[![View projects](https://img.shields.io/badge/View-Projects-8B5CF6?style=for-the-badge&logo=figma&logoColor=white)](https://yeshak-portfolio.netlify.app/projects)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🔍 Design Process
-
-See how I move from research and ideas to tested, refined solutions.
-
-[![See process](https://img.shields.io/badge/See-Process-06B6D4?style=for-the-badge&logo=proton&logoColor=white)](https://yeshak-portfolio.netlify.app/process)
 
 </td>
 </tr>
