@@ -17,19 +17,11 @@ UI/UX designer, visual storyteller, and software engineering student based in Ad
 
 <h2 align="center">Explore my portfolio</h2>
 
-<table width="100%">
-<tr>
-<td width="100%" align="center" valign="middle">
-<h3 align="center">🎨 Full Portfolio</h3>
-<p align="center">Discover my design profile, selected work, skills, experience, and creative approach.</p>
 <p align="center">
 <a href="https://yeshak-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Open-Portfolio-EC4899?style=for-the-badge&logo=netlify&logoColor=white" alt="Open portfolio" />
+<img src="./assets/portfolio-card.svg" width="100%" alt="Open Yeshak Tsegaye's full design portfolio" />
 </a>
 </p>
-</td>
-</tr>
-</table>
 
 ## Design meets engineering
 
