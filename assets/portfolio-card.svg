@@ -1,39 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Yeshak Tsegaye full design portfolio</title>
-  <desc id="desc">A full-width portfolio card linking to Yeshak's UI and UX design portfolio.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Yeshak Tsegaye design portfolio</title>
+  <desc id="desc">A structured full-width portfolio card matching Yeshak's website design system.</desc>
+
   <defs>
-    <linearGradient id="border" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset="0.5" stop-color="#06B6D4"/>
-      <stop offset="1" stop-color="#EC4899"/>
-    </linearGradient>
-    <linearGradient id="button" x1="448" y1="0" x2="752" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset="1" stop-color="#EC4899"/>
-    </linearGradient>
-    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientTransform="translate(80 35) rotate(33) scale(350 220)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6" stop-opacity=".20"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientTransform="translate(1115 225) rotate(-145) scale(340 210)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#06B6D4" stop-opacity=".16"/>
-      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
-    </radialGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#0F172A" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#0F172A" flood-opacity=".08"/>
+    </filter>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="258" rx="24" fill="#0D1117" stroke="url(#border)" stroke-width="2"/>
-  <rect x="3" y="3" width="1194" height="254" rx="22" fill="url(#glowLeft)"/>
-  <rect x="3" y="3" width="1194" height="254" rx="22" fill="url(#glowRight)"/>
+  <rect x="16" y="16" width="1168" height="308" rx="20" fill="#F8F8F6" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="17" y="17" width="1166" height="306" rx="19" fill="url(#grid)"/>
 
-  <circle cx="60" cy="58" r="6" fill="#EC4899"/>
-  <circle cx="84" cy="58" r="6" fill="#8B5CF6"/>
-  <circle cx="108" cy="58" r="6" fill="#06B6D4"/>
-  <path d="M60 211H1140" stroke="#30363D" stroke-width="1" opacity=".65"/>
+  <path d="M760 16V324" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M760 118H1184M760 220H1184" stroke="#E2E8F0" stroke-width="2"/>
 
-  <text x="600" y="70" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">FULL PORTFOLIO</text>
-  <text x="600" y="112" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Design that feels clear. Products that feel human.</text>
-  <text x="600" y="146" text-anchor="middle" fill="#AAB4C3" font-family="Segoe UI, Arial, sans-serif" font-size="17">Explore my UI/UX work, selected projects, experience, and creative approach.</text>
+  <rect x="52" y="47" width="194" height="32" rx="16" fill="#EDE9FE"/>
+  <circle cx="72" cy="63" r="5" fill="#7C3AED"/>
+  <text x="88" y="68" fill="#6D28D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">YESHAK / PORTFOLIO</text>
 
-  <rect x="448" y="172" width="304" height="54" rx="12" fill="url(#button)"/>
-  <text x="600" y="206" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.5">OPEN PORTFOLIO  →</text>
+  <text x="52" y="132" fill="#0F172A" font-family="Space Grotesk, Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.2">Designing products</text>
+  <text x="52" y="178" fill="#0F172A" font-family="Space Grotesk, Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.2">people enjoy using.</text>
+
+  <text x="52" y="216" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">UI/UX design, product thinking, and development awareness.</text>
+
+  <rect x="52" y="248" width="250" height="52" rx="10" fill="#7C3AED"/>
+  <text x="177" y="280" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">OPEN PORTFOLIO  →</text>
+
+  <text x="792" y="49" fill="#7C3AED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">01 / FOCUS</text>
+  <text x="792" y="79" fill="#0F172A" font-family="Space Grotesk, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Product Design</text>
+  <text x="792" y="101" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">UI systems · UX research · User flows</text>
+
+  <text x="792" y="151" fill="#7C3AED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 / PRACTICE</text>
+  <text x="792" y="181" fill="#0F172A" font-family="Space Grotesk, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">From idea to interface</text>
+  <text x="792" y="203" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Wireframes · Prototypes · Design systems</text>
+
+  <text x="792" y="253" fill="#7C3AED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">03 / BUILD</text>
+  <text x="792" y="283" fill="#0F172A" font-family="Space Grotesk, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Design meets engineering</text>
+  <text x="792" y="305" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">HTML · CSS · Flutter · Dart</text>
 </svg>
