@@ -139,12 +139,13 @@ I think beyond individual screens. I consider the full journey, the message, the
 
 > **Good design does not ask for attention. It earns trust by making the next step feel obvious.**
 
-## GitHub snapshot
+## Professional snapshot
 
 <div align="center">
 
-[![AlphaRide stars](https://img.shields.io/github/stars/Isaac-56/alpharide?style=for-the-badge&logo=github&label=AlphaRide%20stars&color=06B6D4)](https://github.com/Isaac-56/alpharide/stargazers)
-[![AlphaRide updates](https://img.shields.io/github/last-commit/Isaac-56/alpharide?style=for-the-badge&label=AlphaRide%20update&color=EC4899)](https://github.com/Isaac-56/alpharide/commits/main)
+[![Internship experience](https://img.shields.io/badge/Internship_Experience-2%2B_Years-8B5CF6?style=for-the-badge)](https://yeshak-portfolio.netlify.app/experience)
+[![Major projects](https://img.shields.io/badge/Major_Projects-5%2B-EC4899?style=for-the-badge)](https://yeshak-portfolio.netlify.app/projects)
+[![Technologies](https://img.shields.io/badge/Technologies-10%2B-06B6D4?style=for-the-badge)](https://yeshak-portfolio.netlify.app/skills)
 
 [**Explore my repositories and contribution history →**](https://github.com/Isaac-56?tab=repositories)
 
