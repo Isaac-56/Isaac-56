@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Yeshak Tsegaye full design portfolio</title>
+  <desc id="desc">A full-width portfolio card linking to Yeshak's UI and UX design portfolio.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="button" x1="448" y1="0" x2="752" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientTransform="translate(80 35) rotate(33) scale(350 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientTransform="translate(1115 225) rotate(-145) scale(340 210)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="258" rx="24" fill="#0D1117" stroke="url(#border)" stroke-width="2"/>
+  <rect x="3" y="3" width="1194" height="254" rx="22" fill="url(#glowLeft)"/>
+  <rect x="3" y="3" width="1194" height="254" rx="22" fill="url(#glowRight)"/>
+
+  <circle cx="60" cy="58" r="6" fill="#EC4899"/>
+  <circle cx="84" cy="58" r="6" fill="#8B5CF6"/>
+  <circle cx="108" cy="58" r="6" fill="#06B6D4"/>
+  <path d="M60 211H1140" stroke="#30363D" stroke-width="1" opacity=".65"/>
+
+  <text x="600" y="70" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">FULL PORTFOLIO</text>
+  <text x="600" y="112" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Design that feels clear. Products that feel human.</text>
+  <text x="600" y="146" text-anchor="middle" fill="#AAB4C3" font-family="Segoe UI, Arial, sans-serif" font-size="17">Explore my UI/UX work, selected projects, experience, and creative approach.</text>
+
+  <rect x="448" y="172" width="304" height="54" rx="12" fill="url(#button)"/>
+  <text x="600" y="206" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.5">OPEN PORTFOLIO  →</text>
+</svg>
