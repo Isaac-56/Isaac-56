@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m Yeshak 👋
+# Hi, I’m Yeshak 🤙🏼
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=850&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=55&lines=UI%2FUX+Designer+%E2%80%A2+Creative+Technologist;Designing+clarity+into+every+interaction;Turning+ideas+into+interfaces+people+remember" alt="Animated introduction" />
 
