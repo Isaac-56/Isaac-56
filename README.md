@@ -8,13 +8,46 @@
 
 UI/UX designer, visual storyteller, and software engineering student based in Addis Ababa.
 
-[![Portfolio](https://img.shields.io/badge/View_My-Portfolio-EC4899?style=for-the-badge&logo=netlify&logoColor=white)](https://yeshak-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Isaac--56-181717?style=for-the-badge&logo=github)](https://github.com/Isaac-56)
 ![Available for opportunities](https://img.shields.io/badge/Available_for-Opportunities-8B5CF6?style=for-the-badge)
 
 </div>
 
 ---
+
+## Explore my portfolio
+
+<table>
+<tr>
+<td width="34%" align="center" valign="top">
+
+### 🎨 Full Portfolio
+
+Discover my design profile, skills, experience, and creative approach.
+
+[![Open portfolio](https://img.shields.io/badge/Open-Portfolio-EC4899?style=for-the-badge&logo=netlify&logoColor=white)](https://yeshak-portfolio.netlify.app/)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🧩 Selected Projects
+
+Explore the products, interfaces, and visual experiences I have designed.
+
+[![View projects](https://img.shields.io/badge/View-Projects-8B5CF6?style=for-the-badge&logo=figma&logoColor=white)](https://yeshak-portfolio.netlify.app/projects)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔍 Design Process
+
+See how I move from research and ideas to tested, refined solutions.
+
+[![See process](https://img.shields.io/badge/See-Process-06B6D4?style=for-the-badge&logo=proton&logoColor=white)](https://yeshak-portfolio.netlify.app/process)
+
+</td>
+</tr>
+</table>
 
 ## Design meets engineering
 
@@ -148,8 +181,6 @@ I think beyond individual screens. I consider the full journey, the message, the
 <div align="center">
 
 ### Let’s turn thoughtful ideas into useful experiences.
-
-[**Explore my design portfolio →**](https://yeshak-portfolio.netlify.app/)
 
 **UI/UX • Visual Design • Social Media • Software Engineering**
 
